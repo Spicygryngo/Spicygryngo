@@ -16,6 +16,12 @@
   <a href="https://calendly.com/alexthomas-saas/tetrad-connect?month=2026-04">Book Demo</a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="tetrad-demo.gif" alt="Tetrad AI Trading Infrastructure Demo" width="900">
+</p>
+
 ---
 
 ## What I Build
