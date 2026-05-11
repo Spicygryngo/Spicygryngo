@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=AI+Trading+Systems+Builder;Quant+Research+Infrastructure;Self-Custody+SMA+Execution;Meta-Allocator+%2B+Strategy+Router;Tetrad+Protocol+%7C+Tetrad+Tower+%7C+MLTT%2FRORO" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Alex Thomas — AI Trading Infrastructure Builder</h1>
+<h1 align="center">Alex Thomas || AI Trading Infrastructure Builder</h1>
 
 <p align="center">
   Building AI-governed trading systems, strategy research labs, self-custody SMA execution infrastructure, and market intelligence dashboards.
